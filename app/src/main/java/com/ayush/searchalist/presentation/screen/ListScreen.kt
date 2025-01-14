@@ -1,4 +1,4 @@
-package com.ayush.searchalist
+package com.ayush.searchalist.presentation.screen
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement

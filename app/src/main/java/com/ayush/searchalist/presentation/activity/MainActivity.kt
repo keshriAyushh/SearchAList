@@ -1,9 +1,9 @@
-package com.ayush.searchalist
+package com.ayush.searchalist.presentation.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.activity.enableEdgeToEdge
+import com.ayush.searchalist.presentation.screen.ListScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

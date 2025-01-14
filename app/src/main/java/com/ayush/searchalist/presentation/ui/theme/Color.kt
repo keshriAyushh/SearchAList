@@ -1,4 +1,4 @@
-package com.ayush.searchalist.ui.theme
+package com.ayush.searchalist.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
